@@ -13,7 +13,6 @@ header{
 .border{
     border: 10px solid cornflowerblue;
     margin: 20px;
-
 }
 
 body{
@@ -77,4 +76,8 @@ h2, h3{
         background-color: springgreen;
         font-size: smaller;
     }
+    .border2{  
+        color:yellow;
+    }
+    
 }
